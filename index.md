@@ -1,6 +1,13 @@
 {% assign site.title = 'Francesco Casula' %}
 {% assign site.description = 'IT Contractor London' %}
 
-## Francesco Casula
+## IT Contractor in London
 
-Work in progress
+Full-Stack IT Contractor specialized in **PHP**, **MySQL**, **Symfony 2+** and high scalable websites (e.g. *RabbitMQ*, *AWS*...).
+I've also had an extensive experience with **JavaScript** (both frontend and backend with *Node.js*).
+
+* [StackOverflow](http://stackoverflow.com/users/828366/francesco-casula?tab=profile)
+* [GitHub profile](https://github.com/fracasula)
+* [Twitter](https://twitter.com/fra_casula) 
+
+[Hire me](mailto:fra.casula@gmail.com)
