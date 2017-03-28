@@ -18,9 +18,7 @@
 <body>
 <div id="header">
     <nav>
-        <ul>
-            <li class="fork"><a href="/">Home</a></li>
-        </ul>
+        <li class="fork"><a href="/">Home</a></li>
     </nav>
 </div><!-- end header -->
 
@@ -28,7 +26,9 @@
     <section>
         <div id="title">
             <h1>{{ site.title | default: "Francesco Casula" }}</h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            {% if site.description %}
+                <p>{{ site.description | default: site.github.project_tagline }}</p>
+            {% endif %}
         </div>
         {{ content }}
     </section>
