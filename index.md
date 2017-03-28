@@ -43,4 +43,6 @@ top of RabbitMQ and a LAMP stack.
 * [MySQL partitioning](http://dba.stackexchange.com/questions/65665/partition-by-year-and-sub-partition-by-month-mysql/117438#117438)
 * [PHP nested foreach with iterators](http://stackoverflow.com/questions/3405476/nested-foreach-with-iterator-interface/33416929#33416929)
 
-[Hire me](mailto:fra.casula@gmail.com)! ![smile](https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png)
+[Hire me](mailto:fra.casula@gmail.com)!
+
+![smile](https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png)
