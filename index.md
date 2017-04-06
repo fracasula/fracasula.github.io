@@ -2,8 +2,8 @@
 
 ## IT Contractor in London
 
-Full-Stack IT Contractor specialized in **PHP**, **MySQL**, **Symfony 2+** and high scalable websites (e.g. *RabbitMQ*, *AWS*...).
-I've also had an extensive experience with **Mongo** and **JavaScript** (both frontend and backend with *Node.js*).
+Full-Stack IT Contractor specialized in **PHP**, **MySQL**, **Symfony 2+**, **JavaScript**, **Node.js** and high scalable websites (e.g. *RabbitMQ*, *AWS*...).
+I've also had an extensive experience with **Mongo** and **JavaScript** on both desktop and mobile.
 In the last few years I worked on Greenfield projects where I built a feed processor with the Microservices architecture on
 top of RabbitMQ and a LAMP stack.
 
@@ -27,6 +27,9 @@ top of RabbitMQ and a LAMP stack.
 * Mongo
 * JavaScript
 * Node.js
+* Jest
+* React
+* Redux
 * SOLID object-oriented design
 * Agile
 * AWS
