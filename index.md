@@ -1,4 +1,4 @@
-{% assign site.title = 'Francesco Casula | IT Contractor in London' %}
+{% assign site.title = 'Francesco Casula | Full-Stack Developer in London' %}
 
 ## Full-Stack Developer in London
 
