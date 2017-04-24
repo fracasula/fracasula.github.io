@@ -1,8 +1,8 @@
 {% assign site.title = 'Francesco Casula | IT Contractor in London' %}
 
-## IT Contractor in London
+## Full-Stack Developer in London
 
-Full-Stack IT Contractor specialized in **PHP**, **MySQL**, **Symfony 2+**, **JavaScript**, **Node.js** and high scalable websites (e.g. *RabbitMQ*, *AWS*...).
+Full-Stack Developer specialized in **PHP**, **MySQL**, **Symfony 2+**, **JavaScript**, **Node.js** and high scalable websites (e.g. *RabbitMQ*, *AWS*...).
 I've also had an extensive experience with **Mongo** and **JavaScript** on both desktop and mobile.
 In the last few years I worked on Greenfield projects where I built a feed processor with the Microservices architecture on
 top of RabbitMQ and a LAMP stack.
