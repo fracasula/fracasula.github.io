@@ -40,6 +40,11 @@ If you're interested in hiring me feel free to drop me a message on LinkedIn (or
 * RESTful APIs or GraphQL
 * SOLID principles
 * Linux (OpenSuse Tumbleweed FTW!)
+* [Computer Networking](https://www.coursera.org/account/accomplishments/verify/XUZUL29VTNZT)
+
+![Go Expert](./img/go-badge.png)
+
+![Go Chart](./img/go-chart.png)
 
 ## Some StackOverflow answers
 * [Node.js promises](https://stackoverflow.com/questions/29185579/node-js-promises-push-to-array-asynchronously-save/44726560#44726560)
