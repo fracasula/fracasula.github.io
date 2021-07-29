@@ -3,10 +3,10 @@
 ## Senior Software Engineer (working remotely)
 
 I'm a Senior Software Engineer specialized in **Golang**, distributed systems and highly scalable Microservices in the Cloud.
-I've also had an extensive experience with **Kubernetes**, **SQL** and **NoSQL** databases and messaging systems (i.e.
-**Apache Kafka**, **ApachePulsar**, **VerneMQ** and **RabbitMQ**).
+I've also had an extensive experience with **Kubernetes**, **SQL** and **NoSQL** databases and several messaging systems 
+(i.e. **Apache Kafka**, **ApachePulsar**, **VerneMQ** and **RabbitMQ**).
 
-I worked with both even based systems (e.g. Event Sourcing) and traditional systems. Microservices patterns like CQRS,
+I worked with both Event based systems (e.g. Event Sourcing) and traditional systems. Microservices patterns like CQRS,
 Event Sourcing, Orchestration/Choreography and Sagas are my bread and butter.
 
 I'm a strong believer of Infrastructure as Code, and I'm a DevOps at heart. I also believe that CI/CD pipelines are 
@@ -15,7 +15,7 @@ really important for developers productivity and a crucial part of any serious s
 I always strive to follow best coding practices. Good quality, speed, latency, scalability and test coverage are all
 things that I strive for (and remember to test against unexpected inputs too!).
 
-If you're interested in hiring me feel free to drop me a message on LinkedIn (or an e-mail).
+If you want to start a conversation feel free to drop me a message on LinkedIn (or an e-mail).
 
 * [LinkedIn](https://www.linkedin.com/in/casulafrancesco)
 * [StackOverflow](http://stackoverflow.com/users/828366/francesco-casula?tab=profile)
