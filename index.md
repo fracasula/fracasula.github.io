@@ -1,55 +1,47 @@
-{% assign site.title = 'Francesco Casula | Remote Senior Full-Stack Engineer' %}
+{% assign site.title = 'Francesco Casula | Remote Senior Software Engineer' %}
 
-## Senior Full-Stack Engineer (working remotely)
+## Senior Software Engineer (working remotely)
 
-Polyglot Full-Stack Engineer specialized in **Golang**, **Node.js**, **PHP**, **MySQL**, **Symfony 2+** and high
-scalable applications in the cloud (e.g. *AWS*, *Google Cloud Platform*...).
-I've also had an extensive experience with **Docker**, **Kubernetes**, **MongoDB**, **Apache Kafka** and **RabbitMQ**.
+I'm a Senior Software Engineer specialized in **Golang**, distributed systems and highly scalable Microservices in the Cloud.
+I've also had an extensive experience with **Kubernetes**, **SQL** and **NoSQL** databases and messaging systems (i.e.
+**Apache Kafka**, **ApachePulsar**, **VerneMQ** and **RabbitMQ**).
 
-In the last few years I worked on event based MicroServices architectures in several different languages.
+I worked with both even based systems (e.g. Event Sourcing) and traditional systems. Microservices patterns like CQRS,
+Event Sourcing, Orchestration/Choreography and Sagas are my bread and butter.
 
-That gave me the opportunity to focus on DevOps as well as I had to configure and maintain production environments built
-on top of Kubernetes on the Google Cloud Platform and I also had to build from scratch and maintain the entire CI/CD
-pipeline (*GitLab CI*, *Docker*, *Helm*).
+I'm a strong believer of Infrastructure as Code, and I'm a DevOps at heart. I also believe that CI/CD pipelines are 
+really important for developers productivity and a crucial part of any serious software company pipeline.
 
-I always strive to follow Best Coding Practices and Test Driven Development in order to achieve the best readable and 
-maintainable code possible.
+I always strive to follow best coding practices. Good quality, speed, latency, scalability and test coverage are all
+things that I strive for (and remember to test against unexpected inputs too!).
 
-If you're interested in hiring me feel free to drop me a message on LinkedIn.
+If you're interested in hiring me feel free to drop me a message on LinkedIn (or an e-mail).
 
 * [LinkedIn](https://www.linkedin.com/in/casulafrancesco)
 * [StackOverflow](http://stackoverflow.com/users/828366/francesco-casula?tab=profile)
 * [GitHub profile](https://github.com/fracasula)
 * [Twitter](https://twitter.com/fra_casula) 
 
-## Skillset
-* Golang
-* Kubernetes
-* Docker
-* PHP
-* Node.js
-* MySQL (InnoDB, MyISAM, Partitions)
-* PostgreSQL
-* Symfony 3+
-* Doctrine 2+
-* Apache Kafka
-* RabbitMQ
-* TDD
-* BDD 
-* PHPUnit (mostly for white-box unit tests and integration tests)
-* Behat / Selenium (mostly for functional and acceptance tests and sometimes for unit tests also)
-* RESTful APIs
-* MongoDB
-* Jest
-* Vue.js
-* React
-* SOLID object-oriented design
-* Agile
-* AWS
-* Linux (preferred debian-flavoured distros)
+## OpenSource contributions
+* https://github.com/eclipse/paho.golang/pull/57
+* https://github.com/eclipse/paho.golang/pull/52
+* https://github.com/eclipse/paho.golang/pull/56
+* https://github.com/eclipse/paho.golang/pull/58
 
-## Some relevant answers
-* [Mock functions in Go](https://stackoverflow.com/questions/19167970/mock-functions-in-go/48206430#48206430)
+## Skills
+* Golang [PluralSight IQ assessment (257 Expert)](https://app.pluralsight.com/score/redir/16cadbd0-5c5e-4069-bb5c-d904e38e4e2d?8b6e99bbce)
+* Distributed Systems at scale
+* Microservices patterns
+* Kubernetes (mostly on GCP)
+* SQL databases (CockroachDB, MySQL [InnoDB, MyISAM, Partitions], PostgreSQL)
+* NoSQL (primarily MongoDB)
+* Messaging systems (primarily Apache Kafka, Apache Pulsar and VerneMQ)
+* DevOps (IaC [helm], CI/CD...)
+* RESTful APIs or GraphQL
+* SOLID principles
+* Linux (OpenSuse Tumbleweed FTW!)
+
+## Some StackOverflow answers
 * [Node.js promises](https://stackoverflow.com/questions/29185579/node-js-promises-push-to-array-asynchronously-save/44726560#44726560)
 * [PHP memory profiling](http://stackoverflow.com/questions/880458/php-memory-profiling/23779807#23779807)
 * [How to profile forked process](http://stackoverflow.com/questions/16787462/php-xdebug-how-to-profile-forked-process/31388948#31388948)
