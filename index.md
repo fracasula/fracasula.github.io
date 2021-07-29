@@ -23,10 +23,13 @@ If you're interested in hiring me feel free to drop me a message on LinkedIn (or
 * [Twitter](https://twitter.com/fra_casula) 
 
 ## OpenSource contributions
-* https://github.com/eclipse/paho.golang/pull/57
-* https://github.com/eclipse/paho.golang/pull/52
-* https://github.com/eclipse/paho.golang/pull/56
-* https://github.com/eclipse/paho.golang/pull/58
+* [Eclipse Paho MQTT client - Manual acknowledgments](https://github.com/eclipse/paho.golang/pull/57)
+  * New feature! 
+* [Eclipse Paho MQTT client - In-order routing and late ack](https://github.com/eclipse/paho.golang/pull/52)
+  * The client wasn't following the MQTT protocol specifications
+  * The client was sending acknowledgments right away leading to message loss in some cases
+* [Eclipse Paho MQTT client - Deadlock + minor bugfixes](https://github.com/eclipse/paho.golang/pull/56)
+* [Eclipse Paho MQTT client - panic: send on closed channel](https://github.com/eclipse/paho.golang/pull/58)
 
 ## Skills
 * Golang [PluralSight IQ assessment (257 Expert)](https://app.pluralsight.com/score/redir/16cadbd0-5c5e-4069-bb5c-d904e38e4e2d?8b6e99bbce)
