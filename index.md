@@ -3,10 +3,10 @@
 ## Senior Software Engineer (working remotely)
 
 I'm a Senior Software Engineer specialized in **Golang**, distributed systems and highly scalable Microservices in the Cloud.
-I've also had an extensive experience with **Kubernetes**, **SQL** and **NoSQL** databases and messaging systems (i.e.
-**Apache Kafka**, **ApachePulsar**, **VerneMQ** and **RabbitMQ**).
+I've also had an extensive experience with **Kubernetes**, **SQL** and **NoSQL** databases and several messaging systems 
+(i.e. **Apache Kafka**, **ApachePulsar**, **VerneMQ** and **RabbitMQ**).
 
-I worked with both even based systems (e.g. Event Sourcing) and traditional systems. Microservices patterns like CQRS,
+I worked with both Event based systems (e.g. Event Sourcing) and traditional systems. Microservices patterns like CQRS,
 Event Sourcing, Orchestration/Choreography and Sagas are my bread and butter.
 
 I'm a strong believer of Infrastructure as Code, and I'm a DevOps at heart. I also believe that CI/CD pipelines are 
@@ -15,7 +15,7 @@ really important for developers productivity and a crucial part of any serious s
 I always strive to follow best coding practices. Good quality, speed, latency, scalability and test coverage are all
 things that I strive for (and remember to test against unexpected inputs too!).
 
-If you're interested in hiring me feel free to drop me a message on LinkedIn (or an e-mail).
+If you want to start a conversation feel free to drop me a message on LinkedIn (or an e-mail).
 
 * [LinkedIn](https://www.linkedin.com/in/casulafrancesco)
 * [StackOverflow](http://stackoverflow.com/users/828366/francesco-casula?tab=profile)
@@ -23,10 +23,13 @@ If you're interested in hiring me feel free to drop me a message on LinkedIn (or
 * [Twitter](https://twitter.com/fra_casula) 
 
 ## OpenSource contributions
-* https://github.com/eclipse/paho.golang/pull/57
-* https://github.com/eclipse/paho.golang/pull/52
-* https://github.com/eclipse/paho.golang/pull/56
-* https://github.com/eclipse/paho.golang/pull/58
+* [Eclipse Paho MQTT client - Manual acknowledgments](https://github.com/eclipse/paho.golang/pull/57)
+  * New feature! 
+* [Eclipse Paho MQTT client - In-order routing and late ack](https://github.com/eclipse/paho.golang/pull/52)
+  * The client wasn't following the MQTT protocol specifications
+  * The client was sending acknowledgments right away leading to message loss in some cases
+* [Eclipse Paho MQTT client - Deadlock + minor bugfixes](https://github.com/eclipse/paho.golang/pull/56)
+* [Eclipse Paho MQTT client - panic: send on closed channel](https://github.com/eclipse/paho.golang/pull/58)
 
 ## Skills
 * Golang [PluralSight IQ assessment (257 Expert)](https://app.pluralsight.com/score/redir/16cadbd0-5c5e-4069-bb5c-d904e38e4e2d?8b6e99bbce)
